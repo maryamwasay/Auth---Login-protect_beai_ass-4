@@ -2,5 +2,6 @@ fastapi
 uvicorn[standard]
 supabase
 python-dotenv
-python-multipart
+email-validator
+pytest
 httpx
